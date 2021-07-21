@@ -7,7 +7,7 @@ again, why?
 in your source directory, run the following command
 
 ```sh
-git clone git://git.sinjs.cf/sinjs/uwucpp.git
+git clone https://github.com/sinmineryt/uwucpp.git
 ```
 
 ## setting the include path
